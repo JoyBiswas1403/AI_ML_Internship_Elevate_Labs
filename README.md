@@ -41,7 +41,7 @@ This project covers full data cleaning and preprocessing on the Titanic dataset.
 
 1. Open `task1_data_cleaning.ipynb` to view and run the workflow.
 2. `cleaned_titanic.csv` is the final cleaned dataset.
-3. `boxplots.png` is a visualization of outliers (add as needed).
+3. `boxplots.png` is a visualization of outliers.
 
 ---
 
