@@ -1,5 +1,6 @@
+<!-- Elegant Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Joy%20Biswas%20CSE%20Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Joy%20Biswas%20%7C%20CSE%20Student&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
 <!-- Subtitle -->
