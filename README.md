@@ -33,7 +33,7 @@
 - [🏆 GitHub Trophies](#-github-trophies)
 - [📊 GitHub Stats](#-github-stats)
 - [📜 Internship Timeline](#-internship-timeline)
-- [🐍 Contribution Snake](#-contribution-snake)
+- [🏅 GitHub Achievements](#-github-achievements)
 - [📬 Contact & Feedback](#-contact--feedback)
 - [🙏 Acknowledgments](#-acknowledgments)
 
@@ -110,13 +110,9 @@ Each task is neatly organized in its own folder for easy navigation:
 
 ---
 
-## 🐍 Contribution Snake
+## 🏅 GitHub Achievements
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoyBiswas1403/AI-ML-Internship/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoyBiswas1403/AI-ML-Internship/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/JoyBiswas1403/AI-ML-Internship/output/snake-dark.svg" alt="Snake animation" />
-  </picture>
+  <img src="https://github-profile-achievements.vercel.app/api?username=JoyBiswas1403&theme=radical&show=all" alt="GitHub Achievements" />
 </p>
 
 ---
