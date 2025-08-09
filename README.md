@@ -97,7 +97,8 @@ Each task is neatly organized in its own folder for easy navigation:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" width="90%" />
+  <!-- Switched to a more reliable graph generator -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" width="90%" />
 </p>
 
 ---
