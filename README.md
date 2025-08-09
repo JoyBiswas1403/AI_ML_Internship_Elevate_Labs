@@ -1,13 +1,14 @@
-<!-- Animated Gradient Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=180&section=header&text=🤖%20AI%20%26%20ML%20Internship%20Repository&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🤖%20AI%20%26%20ML%20Internship%20Repository&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Subtitle -->
 <p align="center">
   <i>Daily documented tasks for the <b>Elevate AI & ML Internship</b> 🚀</i>
 </p>
 
-<!-- Shields -->
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
@@ -22,23 +23,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=58A6FF,FF6EC7,00F260&center=true&vCenter=true&width=800&lines=Welcome+to+my+AI+%26+ML+Internship+Repo!;Daily+Tasks+%7C+Projects+%7C+Learning;Data+Science+%7C+Machine+Learning+%7C+AI" alt="Typing SVG" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pandas" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=numpy" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=matplotlib" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=jupyter" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" height="50" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy,matplotlib,jupyter,git,github&perline=5" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 ## 📚 Table of Contents
 - [📂 Repository Structure](#-repository-structure)
@@ -52,7 +44,7 @@
 - [📬 Contact & Feedback](#-contact--feedback)
 - [🙏 Acknowledgments](#-acknowledgments)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 ## 📂 Repository Structure
 Each task is neatly organized in its own folder for easy navigation:
@@ -103,7 +95,7 @@ Each task is neatly organized in its own folder for easy navigation:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -151,7 +143,7 @@ Grateful for the learning and guidance received.
   ⭐ If you enjoyed exploring this repository, give it a star and follow for more! ⭐
 </p>
 
-<!-- Animated Gradient Footer -->
+<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
