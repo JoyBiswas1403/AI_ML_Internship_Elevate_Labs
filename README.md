@@ -32,6 +32,8 @@
 - [🎥 Demo & Visuals](#-demo--visuals)
 - [🏆 GitHub Trophies](#-github-trophies)
 - [📊 GitHub Stats](#-github-stats)
+- [📜 Internship Timeline](#-internship-timeline)
+- [🐍 Contribution Snake](#-contribution-snake)
 - [📬 Contact & Feedback](#-contact--feedback)
 - [🙏 Acknowledgments](#-acknowledgments)
 
@@ -92,6 +94,19 @@ Each task is neatly organized in its own folder for easy navigation:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
+
+---
+
+## 📜 Internship Timeline
+<details>
+<summary>📅 Click to view progress</summary>
+
+- *Day 1:* Data Cleaning Basics  
+- *Day 2:* EDA on Housing Dataset  
+- *Day 3:* Linear Regression Model  
+- *Day 4:* Logistic Regression Model  
+
+</details>
 
 ---
 
