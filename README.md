@@ -13,6 +13,14 @@
   <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge&logo=tensorflow" />
   <img src="https://img.shields.io/github/last-commit/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=JoyBiswas1403&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,jupyter,git,github&perline=5" />
 </p>
 
 ---
@@ -22,6 +30,7 @@
 - [🔍 What You Will Find Here](#-what-you-will-find-here)
 - [🛠 How to Use This Repository](#-how-to-use-this-repository)
 - [🎥 Demo & Visuals](#-demo--visuals)
+- [🏆 GitHub Trophies](#-github-trophies)
 - [📊 GitHub Stats](#-github-stats)
 - [📬 Contact & Feedback](#-contact--feedback)
 - [🙏 Acknowledgments](#-acknowledgments)
@@ -63,6 +72,13 @@ Each task is neatly organized in its own folder for easy navigation:
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>  
@@ -79,6 +95,13 @@ Each task is neatly organized in its own folder for easy navigation:
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoyBiswas1403/JoyBiswas1403/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📬 Contact & Feedback
 💌 *Email:* [bjoy1403@gmail.com](mailto:bjoy1403@gmail.com)  
 💬 *GitHub Issues:* [Open an issue](https://github.com/JoyBiswas1403/AI-ML-Internship/issues)  
@@ -90,6 +113,10 @@ Part of the *Elevate AI & ML Internship* by *Elevate Labs*.
 Grateful for the learning and guidance received.  
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <p align="center">
   <b>Author:</b> Joy Biswas • <b>Program:</b> Elevate AI & ML Internship • <b>Updates:</b> Daily
