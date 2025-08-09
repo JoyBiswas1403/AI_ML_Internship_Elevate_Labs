@@ -1,10 +1,5 @@
-<!-- Task 1 Elegant Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Task%201%20%7C%20Data%20Cleaning%20%26%20Preprocessing&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&fontSize=36&animation=fadeIn" />
-</p>
-
+<!-- Elegant Header -->
 <h1 align="center">🚢 Task 1: Data Cleaning & Preprocessing 🛳</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-✅%20Completed-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
