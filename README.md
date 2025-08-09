@@ -11,8 +11,9 @@
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
   <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/github/last-commit/yourusername/yourrepo?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=JoyBiswas1403&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -53,9 +54,9 @@ Each task is neatly organized in its own folder for easy navigation:
 ## 🛠 How to Use This Repository
 
 1. Navigate to a task folder (e.g., Task1/, Task2/).  
-2. Run the provided notebooks/scripts.  
+2. Open the provided Jupyter notebooks or Python scripts.  
 3. Explore datasets, plots & summaries.  
-4. Read the task’s README.md for methodology.  
+4. Read the task’s README.md for methodology & insights.  
 
 ---
 
@@ -70,12 +71,16 @@ Each task is neatly organized in its own folder for easy navigation:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBiswas1403&layout=compact&theme=radical" alt="Top Languages" width="48%"/>  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=JoyBiswas1403&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -83,7 +88,7 @@ Each task is neatly organized in its own folder for easy navigation:
 ## 📬 Contact & Feedback
 
 💌 *Email:* [bjoy1403@gmail.com](mailto:bjoy1403@gmail.com)  
-💬 *GitHub Issues:* [Open an issue](https://github.com/yourusername/yourrepo/issues)  
+💬 *GitHub Issues:* [Open an issue](https://github.com/JoyBiswas1403/AI-ML-Internship/issues)  
 
 ---
 
