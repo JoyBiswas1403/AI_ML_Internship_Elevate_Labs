@@ -1,7 +1,7 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=200&section=header&text=🤖%20AI%20%26%20ML%20Internship%20Repository&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,58A6FF,100,8B5CF6&height=200&section=header&text=🤖%20AI%20%26%20ML%20Internship%20Repository&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <!-- Subtitle -->
 <p align="center">
