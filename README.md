@@ -1,6 +1,6 @@
-<!-- Elegant Banner -->
+<!-- Gradient Text Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Joy%20Biswas%20%7C%20CSE%20Student&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6A11CB,2575FC&center=true&vCenter=true&width=800&lines=🤖+Joy+Biswas+%7C+CSE+Student;Elevate+AI+%26+ML+Internship+🚀" />
 </p>
 
 <!-- Subtitle -->
