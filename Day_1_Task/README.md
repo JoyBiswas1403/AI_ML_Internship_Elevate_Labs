@@ -1,20 +1,27 @@
-# 🚢 Task 1: Data Cleaning & Preprocessing 🛳
+<!-- Task 1 Elegant Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Task%201%20%7C%20Data%20Cleaning%20%26%20Preprocessing&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff&fontSize=36&animation=fadeIn" />
+</p>
 
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
-![Dataset](https://img.shields.io/badge/Dataset-Titanic-lightgrey?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+<h1 align="center">🚢 Task 1: Data Cleaning & Preprocessing 🛳</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-✅%20Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/Dataset-Titanic-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📜 Table of Contents
 - [📖 About](#-about)
 - [✅ Task Checklist](#-task-checklist)
-- [⚙ Steps](#%EF%B8%8F-steps)
+- [⚙ Steps](#-steps)
 - [📂 Code Structure](#-code-structure)
 - [📁 Deliverables](#-deliverables)
-- [▶ How to Use](#%EF%B8%8F-how-to-use)
+- [▶ How to Use](#-how-to-use)
 - [👤 Author](#-author)
 - [🏆 GitHub Achievements](#-github-achievements)
 
@@ -22,55 +29,62 @@
 
 ## 📖 About
 <details>
-<summary>Click to expand</summary>
+<summary><b>🔍 Click to expand</b></summary>
 
-This project focuses on *full data cleaning and preprocessing* on the *Titanic dataset* 🛳.  
-The goal is to prepare the dataset for machine learning by handling missing values, encoding categorical variables, scaling numerical features, and removing outliers.  
-Visualizations are also included to better understand the data distribution.
+This project focuses on **full data cleaning and preprocessing** for the **Titanic dataset** 🛳.  
+The main objective is to prepare the dataset for machine learning by:
+- Handling missing values  
+- Encoding categorical variables  
+- Scaling numerical features  
+- Removing outliers  
+- Creating insightful visualizations  
+
+The final output is a **clean, analysis-ready dataset** along with visualizations for better understanding.
 
 </details>
 
 ---
 
 ## ✅ Task Checklist
-
-- [x] *🔍 Import and Explore Data*
-- [x] *🧹 Handle Missing Values*
-- [x] *🔢 Encode Categorical Features*
-- [x] *⚖ Normalize/Standardize Numerical Data*
-- [x] *🚫 Detect and Remove Outliers*
-- [x] *📊 Visualize Distributions and Outliers*
+| Status | Task |
+|--------|------|
+| ✔ | 🔍 Import and Explore Data |
+| ✔ | 🧹 Handle Missing Values |
+| ✔ | 🔢 Encode Categorical Features |
+| ✔ | ⚖ Normalize/Standardize Numerical Data |
+| ✔ | 🚫 Detect and Remove Outliers |
+| ✔ | 📊 Visualize Distributions and Outliers |
 
 ---
 
 ## ⚙ Steps
 
-### 1. Import and Explore
-- Loaded dataset from [Titanic CSV](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv)
-- Checked data types, shape, and null values with .info() and .isnull().sum()
+### **1️⃣ Import & Explore**
+- Loaded dataset from [Titanic CSV](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv)  
+- Checked data types, shape, and null values using `.info()` and `.isnull().sum()`  
 
-### 2. Handle Missing Values
-- Filled Age column missing values with median 🧮
+### **2️⃣ Handle Missing Values**
+- Filled `Age` column missing values with **median** 🧮  
 
-### 3. Encode Categorical Variables
-- Converted Sex to numeric: *0* for male, *1* for female 👨‍👩‍👧
+### **3️⃣ Encode Categorical Variables**
+- Converted `Sex` to numeric: **0 = Male**, **1 = Female** 👨‍👩‍👧  
 
-### 4. Normalize/Standardize
-- Standardized Age and Fare using *z-score* formula 📏
+### **4️⃣ Normalize/Standardize**
+- Applied **Z-score** standardization to `Age` and `Fare` 📏  
 
-### 5. Outlier Detection & Removal
-- Created *boxplots* for Age and Fare
-- Removed outliers using *Interquartile Range (IQR)* method
+### **5️⃣ Outlier Detection & Removal**
+- Created **boxplots** for Age and Fare  
+- Removed outliers using **Interquartile Range (IQR)** method  
 
-### 6. Visualizations
-- Saved boxplots as boxplots.png 🖼
+### **6️⃣ Visualizations**
+- Saved all boxplots as **`boxplots.png`** 🖼  
 
 ---
 
 ## 📂 Code Structure
 ```bash
 Task1/
-│── task1_data_cleaning.ipynb   # Jupyter notebook with full workflow
+│── task1_data_cleaning.ipynb   # Full workflow in Jupyter Notebook
 │── cleaned_titanic.csv         # Final cleaned dataset
 │── boxplots.png                # Outlier visualizations
-│── README.md                   # This enhanced documentation
+│── README.md                   # Documentation for Task 1
