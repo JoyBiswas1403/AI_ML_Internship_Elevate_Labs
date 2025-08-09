@@ -2,21 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Joy%20Biswas%20CSE%20Student" />
 </p>
 
-
 <!-- Subtitle -->
 <p align="center">
   <i>Daily documented tasks for the <b>Elevate AI & ML Internship</b> 🚀</i>
 </p>
 
+---
+
+## 🔥 Project Overview
+Welcome to my AI & ML Internship repository! This space contains well-documented tasks showcasing my learning journey through the Elevate AI & ML Internship program. Follow along for hands-on projects, data science experiments, and machine learning techniques.
+
+---
+
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/github/last-commit/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=JoyBiswas1403&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" alt="Python" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" alt="Jupyter Notebook" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=tensorflow" alt="Machine Learning" /></a>
+  <a href="https://github.com/JoyBiswas1403/AI-ML-Internship/commits"><img src="https://img.shields.io/github/last-commit/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" alt="Last Commit" /></a>
+  <a href="https://github.com/JoyBiswas1403/AI-ML-Internship/stargazers"><img src="https://img.shields.io/github/stars/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" alt="GitHub stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JoyBiswas1403&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
 
 <!-- Typing SVG -->
 <p align="center">
@@ -27,10 +35,20 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,matplotlib,jupyter,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,matplotlib,jupyter,git,github&perline=5" alt="Tech Stack" />
   <br/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
+
+---
+
+## 🔑 Features
+- Comprehensive daily documented tasks covering core AI & ML concepts.
+- Well-commented Jupyter notebooks for easy understanding.
+- Clean, curated datasets included with each task.
+- Detailed methodology and project summaries.
+- Visualizations to aid data insights.
+- Activity dashboard and GitHub trophies showcase progress.
 
 ---
 
@@ -51,20 +69,20 @@
 ## 📂 Repository Structure
 Each task is neatly organized in its own folder for easy navigation:
 
-- 📊 Task1 – Data Cleaning & Preprocessing  
-- 📈 Task2 – Exploratory Data Analysis (EDA)  
-- 📉 Task3 – Linear Regression  
-- 🧬 Task4 – Logistic Regression Classification  
-- 📝 Task5+ – Future tasks  
+- 📊 **Task1** – Data Cleaning & Preprocessing  
+- 📈 **Task2** – Exploratory Data Analysis (EDA)  
+- 📉 **Task3** – Linear Regression  
+- 🧬 **Task4** – Logistic Regression Classification  
+- 📝 **Task5+** – Future tasks  
 
 ---
 
 ## 🔍 What You Will Find Here
-✔ Well-commented Python/Jupyter notebooks  
-✔ Clean datasets used & generated  
-✔ Task-specific visualizations  
-✔ Detailed methodology in each task’s README  
-✔ Main README for quick navigation  
+- ✔ Well-commented Python/Jupyter notebooks  
+- ✔ Clean datasets used & generated  
+- ✔ Task-specific visualizations  
+- ✔ Detailed methodology in each task’s README  
+- ✔ Main README for quick navigation  
 
 ---
 
@@ -78,27 +96,26 @@ Each task is neatly organized in its own folder for easy navigation:
 
 ## 🎥 Demo & Visuals
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500px" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500px" alt="Demo GIF" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📊 Activity Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoyBiswas1403&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoyBiswas1403&theme=radical&hide_border=true" width="45%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Switched to a more reliable graph generator -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" width="90%" alt="Activity Graph" />
 </p>
 
 ---
@@ -108,9 +125,9 @@ Each task is neatly organized in its own folder for easy navigation:
 <summary>📅 Click to view progress</summary>
 
 - Day 1: Data Cleaning Basics  
-- Day 2: EDA on Housing Dataset  
-- Day 3: Linear Regression Model  
-- Day 4: Logistic Regression Model  
+- Day 2: Exploratory Data Analysis on Housing Dataset  
+- Day 3: Linear Regression Model Building  
+- Day 4: Logistic Regression Classification  
 
 </details>
 
@@ -118,24 +135,24 @@ Each task is neatly organized in its own folder for easy navigation:
 
 ## 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=algolia&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=algolia&column=7" alt="GitHub Achievements" />
 </p>
 
 ---
 
 ## 📬 Contact & Feedback
-💌 Email: [bjoy1403@gmail.com](mailto:bjoy1403@gmail.com)  
-💬 GitHub Issues: [Open an issue](https://github.com/JoyBiswas1403/AI-ML-Internship/issues)  
+- 💌 Email: [bjoy1403@gmail.com](mailto:bjoy1403@gmail.com)
+- 💬 GitHub Issues: [Open an issue](https://github.com/JoyBiswas1403/AI-ML-Internship/issues)
 
 ---
 
 ## 🙏 Acknowledgments
-Part of the Elevate AI & ML Internship by Elevate Labs.  
+This repository is part of the **Elevate AI & ML Internship** by Elevate Labs.  
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote" />
 </p>
 
 <p align="center">
@@ -144,5 +161,11 @@ Part of the Elevate AI & ML Internship by Elevate Labs.
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Banner" />
+</p>
+
+---
+
+<p align="center">
+  Thank you for visiting my repository! Feel free to explore, give feedback, and connect.  
 </p>
