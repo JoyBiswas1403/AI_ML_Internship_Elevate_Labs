@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge&logo=tensorflow" />
   <img src="https://img.shields.io/github/last-commit/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=JoyBiswas1403&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -54,9 +53,9 @@ Each task is neatly organized in its own folder for easy navigation:
 ## 🛠 How to Use This Repository
 
 1. Navigate to a task folder (e.g., Task1/, Task2/).  
-2. Open the provided Jupyter notebooks or Python scripts.  
+2. Run the provided notebooks/scripts.  
 3. Explore datasets, plots & summaries.  
-4. Read the task’s README.md for methodology & insights.  
+4. Read the task’s README.md for methodology.  
 
 ---
 
@@ -71,12 +70,12 @@ Each task is neatly organized in its own folder for easy navigation:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBiswas1403&layout=compact&theme=radical" alt="Top Languages" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBiswas1403&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoyBiswas1403&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoyBiswas1403&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
 
 <p align="center">
