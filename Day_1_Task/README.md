@@ -1,46 +1,76 @@
-# 🚢 Task 1: Data Cleaning & Preprocessing – Titanic Dataset
+# 🚢 Task 1: Data Cleaning & Preprocessing 🛳
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-%23150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Math-lightblue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?logo=plotly)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal)
-![Dataset](https://img.shields.io/badge/Dataset-Titanic-green)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
+![Dataset](https://img.shields.io/badge/Dataset-Titanic-lightgrey?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
-## 📑 Table of Contents
-- [📖 Overview](#-overview)
+## 📜 Table of Contents
+- [📖 About](#-about)
 - [✅ Task Checklist](#-task-checklist)
-- [🛠 Steps](#-steps)
-- [📂 Deliverables](#-deliverables)
-- [▶ How to Use](#-how-to-use)
-- [🏆 Author & GitHub Stats](#-author--github-stats)
+- [⚙ Steps](#%EF%B8%8F-steps)
+- [📂 Code Structure](#-code-structure)
+- [📁 Deliverables](#-deliverables)
+- [▶ How to Use](#%EF%B8%8F-how-to-use)
+- [👤 Author](#-author)
+- [🏆 GitHub Achievements](#-github-achievements)
 
 ---
 
-## 📖 Overview
-This project covers *full data cleaning and preprocessing* on the *Titanic dataset* 🛳, preparing it for downstream analysis and machine learning modeling.
+## 📖 About
+<details>
+<summary>Click to expand</summary>
+
+This project focuses on *full data cleaning and preprocessing* on the *Titanic dataset* 🛳.  
+The goal is to prepare the dataset for machine learning by handling missing values, encoding categorical variables, scaling numerical features, and removing outliers.  
+Visualizations are also included to better understand the data distribution.
+
+</details>
 
 ---
 
 ## ✅ Task Checklist
-- 🔍 Import & Explore Data  
-- 🧹 Handle Missing Values  
-- 🔢 Encode Categorical Features  
-- ⚖ Normalize/Standardize Numerical Data  
-- 🚫 Detect & Remove Outliers  
-- 📊 Visualize Data Distributions  
+
+- [x] *🔍 Import and Explore Data*
+- [x] *🧹 Handle Missing Values*
+- [x] *🔢 Encode Categorical Features*
+- [x] *⚖ Normalize/Standardize Numerical Data*
+- [x] *🚫 Detect and Remove Outliers*
+- [x] *📊 Visualize Distributions and Outliers*
 
 ---
 
-<details>
-<summary>🛠 <b>Steps</b></summary>
+## ⚙ Steps
 
-### 1️⃣ Import & Explore  
-```python
-import pandas as pd
-df = pd.read_csv("titanic.csv")
-df.info()
-df.isnull().sum()
+### 1. Import and Explore
+- Loaded dataset from [Titanic CSV](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv)
+- Checked data types, shape, and null values with .info() and .isnull().sum()
+
+### 2. Handle Missing Values
+- Filled Age column missing values with median 🧮
+
+### 3. Encode Categorical Variables
+- Converted Sex to numeric: *0* for male, *1* for female 👨‍👩‍👧
+
+### 4. Normalize/Standardize
+- Standardized Age and Fare using *z-score* formula 📏
+
+### 5. Outlier Detection & Removal
+- Created *boxplots* for Age and Fare
+- Removed outliers using *Interquartile Range (IQR)* method
+
+### 6. Visualizations
+- Saved boxplots as boxplots.png 🖼
+
+---
+
+## 📂 Code Structure
+```bash
+Task1/
+│── task1_data_cleaning.ipynb   # Jupyter notebook with full workflow
+│── cleaned_titanic.csv         # Final cleaned dataset
+│── boxplots.png                # Outlier visualizations
+│── README.md                   # This enhanced documentation
