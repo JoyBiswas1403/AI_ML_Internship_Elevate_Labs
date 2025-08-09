@@ -29,7 +29,6 @@
 ---
 
 ## 📂 Repository Structure
-
 Each task is neatly organized in its own folder for easy navigation:
 
 - *📊 Task1/* – Data Cleaning & Preprocessing  
@@ -41,7 +40,6 @@ Each task is neatly organized in its own folder for easy navigation:
 ---
 
 ## 🔍 What You Will Find Here
-
 ✔ *Well-commented Python/Jupyter notebooks*  
 ✔ *Cleaned datasets* used & generated  
 ✔ *Task-specific visualizations*  
@@ -51,7 +49,6 @@ Each task is neatly organized in its own folder for easy navigation:
 ---
 
 ## 🛠 How to Use This Repository
-
 1. Navigate to a task folder (e.g., Task1/, Task2/).  
 2. Run the provided notebooks/scripts.  
 3. Explore datasets, plots & summaries.  
@@ -60,7 +57,6 @@ Each task is neatly organized in its own folder for easy navigation:
 ---
 
 ## 🎥 Demo & Visuals
-
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500px" />
 </p>
@@ -68,14 +64,13 @@ Each task is neatly organized in its own folder for easy navigation:
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBiswas1403&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBiswas1403&layout=compact&theme=radical" alt="Top Languages" width="48%"/>  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoyBiswas1403&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=JoyBiswas1403&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
 
 <p align="center">
@@ -85,14 +80,12 @@ Each task is neatly organized in its own folder for easy navigation:
 ---
 
 ## 📬 Contact & Feedback
-
 💌 *Email:* [bjoy1403@gmail.com](mailto:bjoy1403@gmail.com)  
 💬 *GitHub Issues:* [Open an issue](https://github.com/JoyBiswas1403/AI-ML-Internship/issues)  
 
 ---
 
 ## 🙏 Acknowledgments
-
 Part of the *Elevate AI & ML Internship* by *Elevate Labs*.  
 Grateful for the learning and guidance received.  
 
