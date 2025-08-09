@@ -27,7 +27,9 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,jupyter,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,matplotlib,jupyter,git,github&perline=5" />
+  <br/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
@@ -95,7 +97,7 @@ Each task is neatly organized in its own folder for easy navigation:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoyBiswas1403&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fefefe&area=true&hide_border=true" width="90%" />
 </p>
 
 ---
