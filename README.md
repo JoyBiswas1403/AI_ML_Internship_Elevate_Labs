@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🤖%20AI%20%26%20ML%20Internship%20Repository&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🤖%20AI%20%26%20ML%20Internship%20Repository&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Subtitle -->
@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
-  <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=tensorflow" />
   <img src="https://img.shields.io/github/last-commit/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/JoyBiswas1403/AI-ML-Internship?style=for-the-badge&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=JoyBiswas1403&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -20,14 +20,14 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=58A6FF,FF6EC7,00F260&center=true&vCenter=true&width=800&lines=Welcome+to+my+AI+%26+ML+Internship+Repo!;Daily+Tasks+%7C+Projects+%7C+Learning;Data+Science+%7C+Machine+Learning+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=500&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+AI+%26+ML+Internship+Repo!;Daily+Tasks+%7C+Projects+%7C+Learning;Data+Science+%7C+Machine+Learning+%7C+AI" />
 </p>
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy,matplotlib,jupyter,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,jupyter,git,github&perline=5" />
 </p>
 
 ---
@@ -49,17 +49,17 @@
 ## 📂 Repository Structure
 Each task is neatly organized in its own folder for easy navigation:
 
-- 📊 Task1/ – Data Cleaning & Preprocessing  
-- 📈 Task2/ – Exploratory Data Analysis (EDA)  
-- 📉 Task3/ – Linear Regression  
-- 🧬 Task4/ – Logistic Regression Classification  
-- 📝 Task5, ... – Future tasks  
+- 📊 Task1 – Data Cleaning & Preprocessing  
+- 📈 Task2 – Exploratory Data Analysis (EDA)  
+- 📉 Task3 – Linear Regression  
+- 🧬 Task4 – Logistic Regression Classification  
+- 📝 Task5+ – Future tasks  
 
 ---
 
 ## 🔍 What You Will Find Here
 ✔ Well-commented Python/Jupyter notebooks  
-✔ Cleaned datasets used & generated  
+✔ Clean datasets used & generated  
 ✔ Task-specific visualizations  
 ✔ Detailed methodology in each task’s README  
 ✔ Main README for quick navigation  
@@ -67,7 +67,7 @@ Each task is neatly organized in its own folder for easy navigation:
 ---
 
 ## 🛠 How to Use This Repository
-1. Navigate to a task folder (e.g., Task1/, Task2/).  
+1. Navigate to a task folder.  
 2. Run the provided notebooks/scripts.  
 3. Explore datasets, plots & summaries.  
 4. Read the task’s README.md for methodology.  
@@ -115,7 +115,7 @@ Each task is neatly organized in its own folder for easy navigation:
 
 ## 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=algolia&column=7" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=algolia&column=7" />
 </p>
 
 ---
@@ -128,7 +128,6 @@ Each task is neatly organized in its own folder for easy navigation:
 
 ## 🙏 Acknowledgments
 Part of the Elevate AI & ML Internship by Elevate Labs.  
-Grateful for the learning and guidance received.  
 
 ---
 
@@ -138,9 +137,6 @@ Grateful for the learning and guidance received.
 
 <p align="center">
   <b>💡 Pro Tip:</b> Never stop learning — AI waits for no one! 🚀  
-</p>
-<p align="center">
-  ⭐ If you enjoyed exploring this repository, give it a star and follow for more! ⭐
 </p>
 
 <!-- Footer Banner -->
