@@ -1,58 +1,84 @@
 # 🚢 Task 1: Data Cleaning & Preprocessing
 
-This project covers full data cleaning and preprocessing on the Titanic dataset. 🛳️
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-%23150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-%23013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-%23ffffff?logo=plotly)
+
+---
+
+## 📜 Table of Contents
+1. [📖 About the Project](#-about-the-project)
+2. [✅ Task Checklist](#-task-checklist)
+3. [⚙ Steps & Workflow](#-steps--workflow)
+4. [📂 Deliverables](#-deliverables)
+5. [▶ How to Use](#-how-to-use)
+6. [🏆 Achievements](#-achievements)
+7. [👤 Author](#-author)
+
+---
+
+## 📖 About the Project
+<details>
+<summary>Click to expand</summary>
+
+This project covers *data cleaning and preprocessing* of the Titanic dataset 🛳, preparing it for further analysis or modeling.  
+The steps include handling missing values, encoding categorical variables, scaling features, detecting/removing outliers, and visualizing data distributions.
+
+Dataset: [Titanic CSV](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv)
+</details>
 
 ---
 
 ## ✅ Task Checklist
 
-1. **🔍 Import and Explore Data**
-2. **🧹 Handle Missing Values**
-3. **🔢 Encode Categorical Features**
-4. **⚖️ Normalize/Standardize Numerical Data**
-5. **🚫 Detect and Remove Outliers**
+- [x] *🔍 Import and Explore Data*
+- [x] *🧹 Handle Missing Values*
+- [x] *🔢 Encode Categorical Features*
+- [x] *⚖ Normalize/Standardize Numerical Data*
+- [x] *🚫 Detect and Remove Outliers*
+- [x] *📊 Create Visualizations*
 
 ---
 
-## 📝 Steps
+## ⚙ Steps & Workflow
 
-### 1. Import and Explore
-- Loaded Titanic dataset from [this link](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv)  
-- Checked data types, dataset shape, and null values using `.info()` and `.isnull().sum()`
+### 1️⃣ Import and Explore
+- Load dataset from the provided link
+- Inspect data types, shape, and null values using .info() and .isnull().sum()
 
-### 2. Handle Missing Values
-- Filled missing values in the `Age` column with the median age of the dataset 🧮
+### 2️⃣ Handle Missing Values
+- Replace missing Age values with the median 🧮
 
-### 3. Encoding Categorical Variables
-- Converted the `Sex` column to numeric: 0 for male and 1 for female 👨‍👩‍👧
+### 3️⃣ Encode Categorical Variables
+- Convert Sex → 0 (male), 1 (female) 👨‍👩‍👧
 
-### 4. Normalization/Standardization
-- Standardized `Age` and `Fare` features using z-score formula \((x - \text{mean}) / \text{std}\) 📏
+### 4️⃣ Normalize/Standardize
+- Apply *z-score standardization* to Age & Fare 📏
 
-### 5. Outlier Detection & Removal
-- Created boxplots for `Age` and `Fare` to detect outliers 📊  
-- Removed outliers using the Interquartile Range (IQR) method 🚫
+### 5️⃣ Outlier Detection & Removal
+- Create *boxplots* for Age & Fare to detect anomalies
+- Remove outliers using *IQR method* 🚫
 
-### 6. Visualizations
-- Boxplots illustrating outliers and distributions saved as `boxplots.png` 🖼️
-
----
-
-## 📁 Deliverables
-
-- **`task1_data_cleaning.ipynb`**: Jupyter notebook containing the full code and analysis workflow  
-- **`cleaned_titanic.csv`**: Final cleaned dataset after preprocessing and outlier removal  
-- **`boxplots.png`**: Visualization images of `Age` and `Fare` boxplots showing outliers  
-- **`README.md`**: This file explaining the project steps and contents
+### 6️⃣ Visualizations
+- Save boxplots in boxplots.png 🖼
 
 ---
 
-## ▶️ How to Use
-
-1. Open and run the `task1_data_cleaning.ipynb` to reproduce the data cleaning steps.  
-2. Review the cleaned dataset `cleaned_titanic.csv` for your analysis or modeling.  
-3. See the `screenshots/boxplots.png` for visualization insights into data distributions and outliers.  
+## 📂 Deliverables
+- **task1_data_cleaning.ipynb** → Full code & workflow  
+- **cleaned_titanic.csv** → Final cleaned dataset  
+- **boxplots.png** → Visualizations of Age & Fare distributions  
+- **README.md** → This file  
 
 ---
 
-**👤 Submitted by:** Joy Biswas
+## ▶ How to Use
+
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/<your-repo>.git
+
+# Open Jupyter Notebook
+jupyter notebook task1/task1_data_cleaning.ipynb
