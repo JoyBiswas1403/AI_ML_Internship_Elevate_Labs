@@ -112,7 +112,7 @@ Each task is neatly organized in its own folder for easy navigation:
 
 ## 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=JoyBiswas1403&theme=radical&show=all" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=algolia&column=7" alt="GitHub Achievements" />
 </p>
 
 ---
