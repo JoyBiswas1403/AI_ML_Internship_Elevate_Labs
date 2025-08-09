@@ -42,20 +42,20 @@
 ## 📂 Repository Structure
 Each task is neatly organized in its own folder for easy navigation:
 
-- *📊 Task1/* – Data Cleaning & Preprocessing  
-- *📈 Task2/* – Exploratory Data Analysis (EDA)  
-- *📉 Task3/* – Linear Regression  
-- *🧬 Task4/* – Logistic Regression Classification  
-- *📝 Task5, ...* – Future tasks  
+- 📊 Task1/ – Data Cleaning & Preprocessing  
+- 📈 Task2/ – Exploratory Data Analysis (EDA)  
+- 📉 Task3/ – Linear Regression  
+- 🧬 Task4/ – Logistic Regression Classification  
+- 📝 Task5, ... – Future tasks  
 
 ---
 
 ## 🔍 What You Will Find Here
-✔ *Well-commented Python/Jupyter notebooks*  
-✔ *Cleaned datasets* used & generated  
-✔ *Task-specific visualizations*  
-✔ *Detailed methodology* in each task’s README  
-✔ *Main README* for quick navigation  
+✔ Well-commented Python/Jupyter notebooks  
+✔ Cleaned datasets used & generated  
+✔ Task-specific visualizations  
+✔ Detailed methodology in each task’s README  
+✔ Main README for quick navigation  
 
 ---
 
@@ -101,10 +101,10 @@ Each task is neatly organized in its own folder for easy navigation:
 <details>
 <summary>📅 Click to view progress</summary>
 
-- *Day 1:* Data Cleaning Basics  
-- *Day 2:* EDA on Housing Dataset  
-- *Day 3:* Linear Regression Model  
-- *Day 4:* Logistic Regression Model  
+- Day 1: Data Cleaning Basics  
+- Day 2: EDA on Housing Dataset  
+- Day 3: Linear Regression Model  
+- Day 4: Logistic Regression Model  
 
 </details>
 
@@ -122,13 +122,13 @@ Each task is neatly organized in its own folder for easy navigation:
 ---
 
 ## 📬 Contact & Feedback
-💌 *Email:* [bjoy1403@gmail.com](mailto:bjoy1403@gmail.com)  
-💬 *GitHub Issues:* [Open an issue](https://github.com/JoyBiswas1403/AI-ML-Internship/issues)  
+💌 Email: [bjoy1403@gmail.com](mailto:bjoy1403@gmail.com)  
+💬 GitHub Issues: [Open an issue](https://github.com/JoyBiswas1403/AI-ML-Internship/issues)  
 
 ---
 
 ## 🙏 Acknowledgments
-Part of the *Elevate AI & ML Internship* by *Elevate Labs*.  
+Part of the Elevate AI & ML Internship by Elevate Labs.  
 Grateful for the learning and guidance received.  
 
 ---
