@@ -74,7 +74,8 @@ Each task is neatly organized in its own folder for easy navigation:
 - 📈 **Task2** – Exploratory Data Analysis (EDA)  
 - 📉 **Task3** – Linear Regression  
 - 🧬 **Task4** – Logistic Regression Classification  
-- 📝 **Task5+** – Future tasks  
+- 🌳 **Task5** – Decision Trees & Random Forests  
+- 📝 **Task6+** – Future tasks  
 
 ---
 
@@ -129,6 +130,7 @@ Each task is neatly organized in its own folder for easy navigation:
 - Day 2: Exploratory Data Analysis on Housing Dataset  
 - Day 3: Linear Regression Model Building  
 - Day 4: Logistic Regression Classification  
+- Day 5: Decision Trees & Random Forests  
 
 </details>
 
