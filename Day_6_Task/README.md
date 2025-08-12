@@ -95,3 +95,49 @@ The project demonstrates instance-based learning and helps select optimal hyperp
 ---
 
 ## 📂 Code Structure
+
+Task6/
+│── task6_knn_classification.ipynb
+│── cleaned_iris_scaled.csv
+│── README.md
+│── screenshots/
+│     ├── knn_accuracy.png
+│     └── knn_confusion_matrix.png
+
+
+---
+
+## 📁 Deliverables
+
+- Complete Task 6 KNN classification notebook or script
+- Scaled and cleaned CSV of features + labels
+- Two critical visualizations for evaluation and explainability
+- Full documentation with explanation and instructions
+
+---
+
+## ▶ How to Use
+
+1. Open and run `task6_knn_classification.ipynb` (or `.py`) in Jupyter or Colab  
+2. Install requirements if needed:
+3. Run all cells to reproduce preprocessing, model building, and analysis  
+4. View results in the `screenshots/` folder  
+5. (Colab) Uncomment download lines to fetch outputs locally
+
+---
+
+## 👤 Author
+
+**Joy Biswas**  
+Elevate AI & ML Internship participant  
+
+---
+
+## 🏆 GitHub Achievements
+
+*Optionally add badges, GitHub trophies, or highlight your public profile here.*
+
+---
+
+⭐ _Thank you for reviewing this work! If it helped you, please star the repository!_ ⭐
+
